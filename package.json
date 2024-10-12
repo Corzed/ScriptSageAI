@@ -1,0 +1,33 @@
+{
+  "name": "script-sage-ai",
+  "version": "1.0.0",
+  "description": "Script Sage AI - A Discord bot that generates code snippets using OpenAI for various programming languages.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.17.1",
+    "openai": "^4.52.7"
+  },
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "author": "Corzed",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Corzed/ScriptSageAI"
+  },
+  "keywords": [
+    "discord-bot",
+    "openai",
+    "code-generator",
+    "discord",
+    "bot",
+    "ai",
+    "script-sage"
+  ]
+}
