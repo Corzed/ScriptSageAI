@@ -53,7 +53,7 @@ _Example of Script Sage AI responding to a Python question._
 
 5. **Start the bot**:
    ```bash
-   node index.js
+   npm start
    ```
 
 ## Usage 🚀
