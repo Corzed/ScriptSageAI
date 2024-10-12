@@ -22,7 +22,7 @@ _Example of Script Sage AI responding to a Python question._
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/scriptsage-ai.git
+   git clone https://github.com/Corzed/ScriptSageAI.git
    cd scriptsage-ai
    ```
 
