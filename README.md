@@ -23,7 +23,7 @@ _Example of Script Sage AI responding to a Python question._
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Corzed/ScriptSageAI.git
-   cd scriptsage-ai
+   cd ScriptSageAI
    ```
 
 2. **Install dependencies**:
