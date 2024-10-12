@@ -81,7 +81,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
 ## Support 💬
-If you encounter any issues or need help, feel free to open an issue in the repository or contact us on Discord.
+If you encounter any issues or need help, feel free to open an issue in the repository or contact us on Discord. https://discord.gg/WQwPYwvH7Y
 
 ---
 
