@@ -8,7 +8,7 @@ Script Sage AI is a powerful Discord bot designed to help you generate code for 
 - **Usage limits**: Regular users get daily usage limits.
 
 ## Demo Screenshot 📸
-![url=https://ibb.co/zhtMzKP][img]https://i.ibb.co/zhtMzKP/image-2024-10-12-123637127.png[/img][/url]
+![Script Sage AI in Action](https://ibb.co/zhtMzKP)  
 _Example of Script Sage AI responding to a Python question._
 
 ## Installation 📥
